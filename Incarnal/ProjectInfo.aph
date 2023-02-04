@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>CD3D205BE3C77CD447D8B0D36F396CBD76B891272D1C6D88D2B11481DF8134A0</Signature>
+  <Content>
+    <Project Guid="05cae340-e8de-42df-aa8f-fb336de1dced">
+      <DisplayName Value="Incarnal_Vertical_Slice"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="fd4054a6-3177-42c1-aa4a-b0985f815e73"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638088294398005938"/>
+      <PartitionHash Value="C84B99ACE98DB70F9A526A4ED834CBCF10914B82E04317A888E4E446D8FAF346"/>
+      <SaveFileVersion Value="56"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
